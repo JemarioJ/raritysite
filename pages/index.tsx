@@ -60,7 +60,7 @@ export default function Home() {
 
     </div>
 
-    <div>Rank:{JSON.stringify(data, null, 2)}</div>
+    <div>Rank: {JSON.stringify(data, null, 2)}</div>
    </div>
 
     
