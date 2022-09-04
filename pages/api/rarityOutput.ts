@@ -15,9 +15,9 @@ try {
 
  
     let connection = mysql.createConnection({
-        host: 'localhost',
-        user: 'root',
-        password: '',
+        host: '74.207.162.140',
+        user: 'externaluser',
+        password: 'thisisatest',
         database: 'rarities'
     });
     
